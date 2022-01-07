@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gwaadiegwaa
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning math
-- 💞️ I’m looking to collaborate on CCTestSoftware
+- 💞️ I’m looking to collaborate on CCToestSoftware
 - 📫 How to reach me sloomaur@gmail.com
 
 <!---
